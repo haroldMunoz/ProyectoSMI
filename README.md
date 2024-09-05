@@ -16,6 +16,8 @@ con el fin de ayudar a la entidad financiera a estar mas preparada ante una inmi
 
 ## Documentos entregados:
 
+#**Primera Entrega:**
+
 1- Contexto, Hipótesis, Problemna, Reto
 
 documentos/Proyecto Gestión de proyectos para la analitica.pdf
@@ -32,3 +34,29 @@ documentos/software_modelador_de_impagos_SMI.pdf
 
 https://www.youtube.com/watch?v=xlGWKzCrP7Y
 
+
+#**Segunda Entrega:**
+
+1- Documento que describe toda la etapa de planeación
+
+planeacion/1. Documento entrega modulo 2 - SMI.pdf
+
+2- Pnatillas en Excel de planificacion SMI
+
+planeacion/2. Plantillas Planificación_SMI.xlsx
+
+3- Estructura ETD
+
+planeacion/3. Estructura desglosada de trabajo ETD.pdf
+
+4- Diseño de la arquitectura
+
+planeacion/4. Arquitectura AWS Sagemaker.pdf
+
+5- Diagrama de proceso:
+
+planeacion/5. Diagrama de flujo del proceso de SMI.pdf
+
+6- Imagen del prototipo del Dashboard
+
+planeacion/6. Prototipo de dashboard.pdf
