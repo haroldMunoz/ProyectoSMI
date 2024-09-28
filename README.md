@@ -60,3 +60,28 @@ planeacion/5. Diagrama de flujo del proceso de SMI.pdf
 6- Imagen del prototipo del Dashboard
 
 planeacion/6. Prototipo de dashboard.pdf
+
+
+#**Tercera Entrega (Final):**
+
+1. Equipo y Marco de Trabajo - SMI.
+
+2. Informe de Desempeño - SMI.
+
+3. Entrega del Producto - SMI.
+
+Anexos_Entrega.zip
+
+Este ultimo contiene:
+
+- Codigo Fuente:
+  AI_CreditCard_Bank_Taiwan.ipynb
+  Despliegue_AWS.ipynb
+
+- Video:
+  Despliegue_Modelo.mp4
+
+- Grafica Curva S.xlsx
+- Desempeño en Equipos Ágiles(Trabajo pendiente - Trabajo acumulado).xlsx
+- Arquitectura SMI AWS Sagemaker.pdf
+
